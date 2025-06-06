@@ -11,6 +11,8 @@ For example:
 
 What is a "bad friend"? In Toki Pona, the word for "friend" is "a good person". Therefore "bad friend" is a contradiction, because they cannot be a good person.
 
+Creativity is heightened through constraints, and in this way every Toki Pona sentence is a beautiful poem.
+
 # Courses
 
 # Games
