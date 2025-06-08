@@ -1,0 +1,121 @@
+,tok,de,eo,fr,ru,sk,en,cs,it,id,nl,es,pl,tr,zh,pt
+0,a/kin,[Betonung],[emfazo],[emphase],[акцент],[dôraz],[emphasis],[důraz],[enfasi],[penekanan],[nadruk],[énfasis],[podkreślenie],[vurgu],［强调］,[ênfase]
+1,kule,Farbe,koloro,couleur,цвет,farba,color,barva,colore,warna,kleur,color,barwa,renk,颜色,cor
+2,mute,"viel, viele, sehr","tre, multaj","beaucoup, très","много, очень","veľa, veľmi","many, very","mnoho, velmi","molti, molto","banyak, sangat","veel, zeer","mucho, muy","dużo, wiele",çok,很多，非常,muito
+3,sewi,"hoch, heilig","supro, alta, sankta","supérieur, saint","верх, святой","horný, vysoký, svätý","top, high, holy","vysoký, svatý","cima, alto, sacro","tinggi, suci","boven, hoog, heilig","superior, santo","wysokie, święte","yukarı, kutsal",上面的，神圣的,"alto, sagrado"
+4,akesi,"Reptil, Lurch","reptilio, amfibio",reptile,рептилия,"plaz, obojživelník","reptile, amphibian","plaz, žába","rettile, anfibio","reptil, amfibi","reptiel, amfibie","reptil, anfibio","gad, żaba","sürüngen, amfibi",蜥蜴，两栖类动物,"réptil, sapo"
+5,kulupu,Gruppe,grupo,groupe,группа,skupina,group,skupina,gruppo,kelompok,groep,grupo,grupa,grup,群组,grupo
+6,nanpa,Nummer,"nombro, numero",nombre,"число, номер",číslo,number,číslo,numero,angka,"nummer, getal",número,numer,"sayı, rakam",数字,número
+7,sijelo,Körper,korpo,corps,тело,telo,body,tělo,corpo,tubuh,lichaam,cuerpo,ciało,vücut,身体,corpo
+8,ala,"nein, nicht(s)","ne, nenio","non, rien","нет, ничего","nie, nič, žiadny","no, nothing","ne, žádný","no, nulla",tidak,"niet, niets","no, nada","nie, nic","hayır, yok, hiçbir",没有，无事,"não, nada"
+9,kute,"hören, Ohr","aŭskulti, orelo","écouter, oreille",слух,"počúvať, ucho","listen, ear","slyšet, ucho","ascoltare, orecchio",telinga,"luisteren, oor","escuchar, oído","słuchać, ucho","duymak, kulak",听，耳朵,"ouvir, ouvido"
+10,nasa,seltsam,"stranga, malkutima","étrange, bizarre",странный,"zvláštny, podivný","strange, weird","zvláštní, podivný","strano, bizzarro","gila, aneh","raar, vreemd","extraño, raro","szalone, dziwne",garip,奇怪的,"louco, estranho"
+11,sike,Kreis,cirklo,cercle,круг,kruh,circle,kruh,cerchio,lingkaran,cirkel,círculo,"koło, okrąg","yuvarlak, daire",圆形,círculo
+12,alasa,"jagen, suchen","ĉasi, serĉi","chasser, chercher","охота, поиск","loviť, hľadať","hunt, search","lovit, hledat","caccia, ricerca",berburu,"jagen, zoeken","cazar, buscar","polować, szukać","avlamak, aramak",打猎，搜寻,"caçar, procurar"
+13,la,[Kontext],[kunteksto],[contexte],[контекст],[kontext],[context],[kontext],[contesto],[konteks],[context],[contexto],[kontekst],[bağlam],［语境］,[contexto]
+14,nasin,"Weg, Pfad","vojo, maniero","façon, chemin","путь, дорога","spôsob, cesta","way, path","způsob, cesta","via, sentiero","cara, jalan","weg, manier","camino, manera","sposób, droga","yol, patika",方法，道路,caminho
+15,sin,"neu, nochmal","nova, denove",nouveau,"новый, снова","nový, znovu","new, again","nový, znovu","nuovo, ancora","baru, lagi","nieuw, opnieuw",nuevo,"nowe, znowu","yeni, yine",新的，再,novo
+16,ale,"alle, alles","ĉio, ĉiuj",tout,"все, всё",všetko,"all, everything",všechno,"tutto, ogni cosa","semua, segala","alle, alles",todo,wszystko,"her, hepsi",所有，所有东西,"todo, tudo"
+17,lape,"Schlaf, Ruhe",dormi,dormir,сон,spať,sleep,spát,sonno,tidur,slapen,dormir,spać,"uyku, uyumak",睡觉,dormir
+18,nena,"Erhebung, Nase","elstaraĵo, monteto, nazo","montagne, nez","холм, нос","hrboľ, nos","bump, nose","hrbol, nos","protuberanza, naso",tonjolan,"bult, neus","montaña, nariz","wybój, nos","tümsek, burun",凸处，鼻子,"monte, nariz"
+19,sina,"du, Sie, ihr",vi,"tu, vous","ты, вы","ty, vy",you,"ty, vy",tu,"kamu, kalian","jij, jou, u, jullie","tú, usted(es)","ty, wy","sen, siz",你,você(s)
+20,anpa,"tief, unten","malsupra, suba",bas,"низ, внизу",nízky,low,nízký,basso,rendah,laag,bajo,nisko,düşük,低的,baixo
+21,laso,"blau, grün","blua, verda","bleu, vert","синий, зелёный","modrý, zelený","blue, green","modrý, zelený","blu, verde","biru, hijau","blauw, groen","azul, verde",morskie (barwa),"mavi, yeşil",蓝色，绿色,"azul, verde"
+22,ni,"dies, diese, das","(ĉi) tio, (ĉi) tiu",ce/cet/cette,"это, то","toto, tamto","this, that","toto, tamto","questo, quello","ini, itu","dit, dat, deze","este, eso","to, tamto","şu, bu",这，那,"isto, este, esso"
+23,sinpin,"Front, Wand","vizaĝo, muro","visage, mur","лицо, стена","tvár, múr","face, wall","tvář, zeď","faccia, muro","muka, dinding","gezicht, muur","cara, muro","twarz, ściana","düzlem, duvar",面，墙壁,"cara, parede"
+24,ante,anders,malsama,différent,другой,odlišný,different,odlišný,differente,berbeda,anders,diferente,inne,"farklı, değişik",不同的,diferente
+25,lawa,"Kopf, herrschen","kapo, gvidi","tête, diriger",голова,"hlava, riadiť","head, rule","hlava, řídit","testa, comando",kepala,"hoofd, leiden","cabeza, dirigir","głowa, rządzić","baş, kural",头，统治,"cabeça, liderar"
+26,nimi,"Name, Wort","nomo, vorto","nom, mot","слово, имя","meno, slovo","name, word","jméno, slovo","nome, parola","nama, kata","naam, woord","nombre, palabra","imię, słowo","isim, kelime",名字，词语,"nome, palavra"
+27,sitelen,"Bild, Text","bildo, skribi","écrire, image","картина, письмо","obrázok, písať","picture, write","obrázek, psát","disegno, scrittura","menulis, foto","plaatje, schrijven","foto, escribir","obraz, pisać","resim, yazmak",图像，写,"escrever, foto"
+28,anu,oder,aŭ,ou,или,alebo,or,nebo,o,atau,of,o,lub,ya da,或,ou
+29,len,Kleidung,"vestaĵo, kovrilo",vêtement,"одежда, ткань","oblečenie, zakryť","clothing, cover",oblečení,"abbigliamento, coprire","kain, pakaian","kleding, bedekking","ropa, cubrir","ubiór, zakryć","kıyafet, kılıf",衣服，遮盖物,"roupas, pano"
+30,noka,"Bein, Fuß","kruro, piedo","jambe, pied",нога,"noha, chodidlo","leg, foot","noha, chodidlo","gamba, piede",kaki,"been, voet","pierna, pie","noga, stopa","bacak, ayak",腿，脚,"perna, pé"
+31,sona,wissen,"scii, koni","savoir, information","знать, знание","vedieť, poznať",know,"vědět, znát",conoscere,tahu,"weten, kennen","saber, conocer",wiedzieć,bilmek,知道,"saber, conhecer"
+32,awen,bleiben,"resti, daŭre esti","garder, rester",оставаться,"udržať, zostať","keep, stay","udržet, zůstat","tenere, stare","tetap, terus","blijven, houden",mantener,"trzymać, stać",kalmak,保留，呆住,manter
+33,lete,kalt,malvarma,froid,холод,studený,cold,studený,freddo,dingin,koud,frío,zimne,soğuk,冷的,frio
+34,o,[Wunsch/Befehl],[deziro/ordono],[souhait/ordre],[охо́та/приказ],[želanie/rozkaz],[wish/command],[přání/rozkaz],[desiderio/imperativo],[harapan/perintah],[wens/bevel],[deseo/mandato],[chęć/rozkaz],[istek/emir],［命令/祈使］,[desejo/comando]
+35,soweli,(Land-)Tier,besto,animal,животное,zviera,animal,zvíře,animale,hewan,(zoog)dier,animal,zwierzę,hayvan,动物,animal
+36,e,[d. Objekt],[rekta objekto],[objet direct],[дополнение],[priamy predmet],[direct object],[předmět],[oggetto diretto],[objek langsung],[lijdend voorwerp],[objeto directo],[dopełnienie],[dolaysız nesne],［直接宾语］,[objeto direto]
+37,li,[Verb],[predikato],[prédicat],[сказуемое],[prísudok],[predicate],[přísudek],[predicato],[predikat],[gezegde],[predicado],[orzeczenie],[yüklem],［谓语］,[predicado]
+38,olin,lieben,ami,"aimer, amour",любовь,milovať,love,milovat,amore,cinta,"houden van, liefde","amar, respetar",kochać,"aşk, sevgi, sevmek",爱,amar
+39,suli,"groß, wichtig","granda, grava","grand, important",большой,"veľký, dôležitý","big, important","velký, důležitý","grande, importante","besar, penting","groot, belangrijk",grande,"duże, ważne","büyük, önemli",大的，重要的,grande
+40,en,[und],[kaj],[et],[и],[a],[and],[a],[e],[dan],[en],[y],[i],[ve],［和］,[e]
+41,lili,klein,malgranda,petit,маленький,malý,small,malý,piccolo,kecil,klein,pequeño,małe,küçük,小的,pequeno
+42,ona,er/sie/es/sie,li/ŝi/ĝi/ili,il/elle/ils/elles,он/она/оно/они,on/ona/ono/oni/ony,he/she/it/they,on/ona/ono/oni/ony,lui/lei/esso/loro,"dia, mereka",hij/zij/het,él/ella/ellos/ellas,on/ona/ono/oni/one,"o, onlar",他/她/它,ele(s)/ela(s)
+43,suno,"Sonne, Licht","suno, lumo","soleil, lumière","солнце, свет","slnko, svetlo","sun, light","slunce, světlo","sole, luce","cahaya, surya","zon, licht","sol, luz","słońce, światło","güneş, ışık",太阳，光,"sol, luz"
+44,esun,"Markt, Handel","vendejo, komerci","boutique, commerce",торговля,"obchod, trh","shop, trade","obchod, trh","negozio, commercio","toko, pasar","winkel, handel","tienda, comerciar","sklep, handel","market, takas",商店，交易,"loja, comércio"
+45,linja,Linie,linio,ligne,линия,"čiara, povraz",line,"čára, provaz",linea,garis,lijn,línea,linia,çizgi,线,linha
+46,open,"beginnen, öffnen","komenci, malfermi","début, ouvrir","начать, открыть","začať, otvoriť","start, open","začít, otevřít","iniziare, aprire","mulai, buka","starten, openen","empezar, abrir","zacząć, otworzyć","başlamak, açmak",开始，开启,"começar, abrir"
+47,supa,Oberfläche,"surfaco, tablo","surface, table",поверхность,"povrch, stôl","surface, table","povrch, stůl","superficie, tavolo",permukaan,"oppervlakte, tafel",superficie,powierzchnia,"yüzey, masa",平面，桌子,superfície
+48,ijo,Ding,"io, afero, aĵo",chose,вещь,vec,thing,věc,"cosa, oggetto",benda,ding,cosa,rzecz,"şey, nesne",东西,coisa
+49,lipu,"flach, Seite, Buch","plata, paĝo, libro","surface plate, page, livre","бумага, книга","plochý, strana, kniha","flat, page, book","plochý, strana","piatto, pagina, libro","kertas, buku","plat, pagina, boek","papel, libro","papier, książka","sayfa, kitap",平的，页，书,"papel, livro"
+50,pakala,kaputt,rompita,cassé,сло́манный,rozbitý,broken,rozbitý,rotto,rusak,gebroken,roto,zepsute,kırık,破碎的,quebrado
+51,suwi,"süß, niedlich","dolĉa, ĉarma","sucré, mignon",сладкий,"sladký, roztomilý","sweet, cute",sladký,"dolce, carino","manis, imut","zoet, lief","dulce, lindo",słodkie,"tatlı, şirin",甜的，可爱的,"doce, fofo"
+52,ike,schlecht,malbona,mauvais,плохой,zlý,bad,špatný,cattivo,buruk,slecht,mal,złe,kötü,不好的,"ruim, mal, mau"
+53,loje,rot,ruĝa,rouge,красный,červený,red,červený,rosso,merah,rood,rojo,czerwone,kırmızı,红的,vermelho
+54,pali,"machen, arbeiten","fari, labori","faire, créer, travailler",делать,"robiť, urobiť, pracovať","do, make, work","dělat, udělat, pracovat","fare, realizzare, lavorare",melakukan,"doen, maken, werken","hacer, trabajar","robić, pracować","yapmak, çalışmak",做，制造，工作,"fazer, trabalhar"
+55,tan,"von, wegen","ekde, pro","de, parce que, à cause de","из, из-за","z, pretože, kvôli","from, because","z, protože","da, perché","dari, karena","vanaf, omdat","de, por","od, ponieważ","-dan, çünkü",从，因为,"de, por"
+56,ilo,Werkzeug,ilo,outil,инструмент,nástroj,tool,nástroj,strumento,alat,"gereedschap, tool",instrumento,narzędzie,alet,工具,instrumento
+57,lon,in/an; wahr,en/ĉe; vera,"en/dans, vrai",на/в; правда,v/na; pravdivý,in/at; true,v/na; pravdivý,in/presso; vero,di/pada; benar,in/bij; waar,"en, cierto",w/na; prawda,"-de/-da, doğru",在；真实的,em; certo
+58,palisa,"Stock, Stange","bastono, stango",bâton,палка,"palica, tyč","stick, rod","klacek, tyč","bastoncino, bastone",tongkat,"stok, stang","palo, barra","kij, patyk",çubuk,棒,"vara, poste"
+59,taso,aber; nur,sed; nur,mais; juste,"но, только",ale; len,but; only,ale; jen,ma; solamente,"tapi, hanya",maar; slechts,pero; solo,ale; tylko,ama; sadece,但是；只,"mas, só"
+60,insa,innen,interno,intérieur,"внутри, центр",vnútri,inside,uvnitř,dentro,dalam,binnenkant,interior,wnętrze,içinde,里面,interior
+61,luka,"Hand, Arm","mano, brako","main, bras",рука,"ruka, paža","hand, arm","ruka, paže","mano, braccio","tangan, lengan","hand, arm","mano, brazo","dłoń, ręka","kol, el",手，手臂,"mão, braço"
+62,pan,"Brot, Getreide","pano, greno","pain, grain","хлеб, зерно","chlieb, obilie","bread, grain","chléb, obilí","pane, cereale","roti, gandum","brood, graan","pan, grano","chleb, ziarno","ekmek, tahıl",面包，谷物,"pão, grão"
+63,tawa,gehen; zu,"iri, moviĝi; al","aller, bouger; à",идти; к,"ísť, hýbať sa; k, do","go, move; to","jít, hýbat se; k","andare, muoversi; verso",bergerak; ke,"gaan, bewegen; naar","ir, mover; a","iść, ruszać; do",gitmek; -a,去，移动；至到,"ir, deslocar; a"
+64,jaki,"eklig, Abfall","malpura, rubaĵo","sale, déchets","грязь, мусор","nechutný, odpad","gross, trash",nechutný,"disgustoso, rifiuto","jijik, sampah","vies, afval","sucio, basura","ohydne, śmieć","iğrenç, çöp",恶心的，垃圾,"sujo, lixo"
+65,lukin,"sehen, Auge","vidi, okulo; provi","voir, regarder; essayer",зрение,"vidieť, oko; skúsiť","see, eye; try to","vidět, oko","vedere, occhio; provare a","melihat, mata","zien, oog; proberen","ver, ojo","widzieć, oko; próbować","görmek, göz",看，眼睛；尝试,"ver, olhar"
+66,pana,geben,doni,donner,давать,dať,give,dát,dare,memberi,geven,dar,dawać,vermek,给,dar
+67,telo,Wasser,"akvo, likvo","eau, liquide","вода, жидкий","voda, tekutina","water, liquid","voda, tekutina","acqua, liquido","air, cairan","water, vloeistof","agua, líquido","woda, ciecz","su, sıvı",水，液体,"áqua, líquido"
+68,jan,Person,persono,personne,человек,osoba,person,osoba,persona,orang,"mens, persoon",persona,osoba,kişi,人,pessoa
+69,lupa,"Loch; Tür, Fenster",truo,trou,дыра,diera,hole,díra,buco,lubang,gat,"agujero, hueco",dziura,delik,洞,buraco
+70,pi,[Umgruppierer],[regrupigilo],[regroupeur],[группа прил.],[preskupenie],[regrouper],[přeskupení],[raggrupatore],[pengelompok],[herindeler],[reagrupador],[grupowanie],[gruplandırıcı],［重组形容词］,[reagrupador]
+71,tenpo,Zeit,tempo,temps,время,čas,time,čas,tempo,waktu,tijd,"hora, tiempo",czas,zaman,时间,"tempo, hora"
+72,jelo,gelb,flava,jaune,жёлтый,žltý,yellow,žlutý,giallo,kuning,geel,amarillo,żółte,sarı,黄色,amarelo
+73,ma,Land,"lando, tero",terre,земля,zem,land,země,terra,daratan,"land, grond",tierra,ląd,"yer, kara",土地,terra
+74,pilin,"Herz, fühlen","koro, senti","cœur, sentir","сердце, чувство","srdce, cítiť","heart, feel","srdce, cítit","cuore, sentimento","merasa, hati","hart, voelen","corazón, sentir","serce, czuć","kalp, hissetmek",心脏，感觉,"coração, sentir"
+75,toki,sprechen,"paroli, lingvo","parler, langue","говорить, язык","hovoriť, jazyk","talk, language","mluvit, jazyk","parlare, linguaggio",berbicara,"praten, taal","hablar, idioma","mówić, język","konuşmak, dil",说，语言,"idioma, falar"
+76,jo,haben,havi,avoir,иметь,mať,have,mít,avere,memiliki,hebben,tener,mieć,sahip olmak,有,ter
+77,mama,"Eltern, Elternteil","patro, patrino",parent,родитель,rodič,parent,rodič,genitore,orang tua,ouder/vader/moeder,"padre, madre",rodzic,ebeveyn,父母,"pai, mãe"
+78,pimeja,"dunkel, schwarz","malluma, nigra","foncé, noir",тёмный,"tmavý, čierny","dark, black","tmavý, černý","scuro, nero","gelap, hitam","donker, zwart","oscuro, negro","ciemne, czarne","siyah, karanlık",黑暗的，黑色,"escuro, preto"
+79,tomo,"Haus, Zimmer","domo, ĉambro","bâtiment, pièce","дом, комната","dom, miestnosť","house, room","dům, místnost","casa, stanza","rumah, kamar","huis, kamer","casa, edificio","dom, pokój","ev, oda",屋子，房间,"casa, prédio"
+80,kala,Fisch,fiŝo,poisson,рыба,ryba,fish,ryba,pesce,ikan,vis,pez,ryba,balık,鱼,peixe
+81,mani,Geld,mono,argent,деньги,peniaze,money,peníze,"soldi, denaro",uang,geld,dinero,pieniądze,para,钱,dinheiro
+82,pini,"Ende, aufhören","fini, fino","fin, terminer",прекращать,"koniec, skončiť","end, finish","konec, skončit","fine, finito",selesai,"beëindigd, verleden","fin, terminar",koniec,"son, bitirmek, bitiş",完成，结束,"fim, acabar"
+83,tu,zwei,du,deux,два,dva,two,dva,due,dua,twee,dos,dwa,iki,二,dois
+84,kalama,Geräusch,"sono, soni","résonner, bruit",звук,zvuk,sound,zvuk,suono,suara,geluid,"soñar, sonido",dźwięk,ses,声音,"soar, som"
+85,meli,weiblich,"ino, ina",femme,женщина,žena,female,žena,femmina,perempuan,"vrouw, vrouwelijk",mujer,żeńska,dişi,女性,mulher
+86,pipi,"Käfer, Insekt","insekto, eta besto",insecte,насекомое,"chrobák, hmyz","bug, insect","brouk, hmyz",insetto,serangga,"insect, beestje",insecto,"robak, owad",böcek,虫子，昆虫,inseto
+87,unpa,Sex,seksumi,sexe,секс,sex,sex,sex,sesso,seks,seks,sexo,seks,"sevişmek, seks",性爱,sexo
+88,kama,kommen,veni,venir,становиться,prísť,come,přijít,arrivare,datang,komen; worden,"venir, llegar",dojść,gelmek,来,"vir, tornar-se"
+89,mi,"ich, wir","mi, ni","je, me, nous/on","я, мы","ja, my","I, me, we, us","já, my","Io, me, noi","aku, kami/kita","ik, mij, wij, ons","yo, mí, nosotros","ja, my","ben, biz",我，我们,"eu, me, nós"
+90,poka,"Seite, Nähe","flanko, proksimaĵo","côté, voisinage","бок, рядом","bok, okolie","side, vicinity","bok, okolí","lato, vicinanza",samping,"zijkant, nabijheid",lado,"bok, okolice","yön, taraf, yakın",边，附近,"lado, perto"
+91,uta,Mund,buŝo,bouche,рот,ústa,mouth,ústa,bocca,mulut,mond,boca,usta,ağız,嘴巴,boca
+92,kasi,Pflanze,planto,plante,растение,rastlina,plant,rostlina,pianta,tumbuhan,plant,planta,roślina,bitki,植物,planta
+93,mije,männlich,"viro, vira",homme,мужчина,muž,male,muž,maschio,laki-laki,"man, mannelijk",hombre,męski,erkek,男性,homem
+94,poki,"Box, Behälter",ujo,"boîte, contenant","коробка, ящик","krabica, nádoba","box, container","krabice, nádoba","scatola, contenitore","kotak, wadah","doos, container",caja,pojemnik,"kutu, kap",盒子，容器,caixa
+95,utala,Kampf,"batali, batalo","combat, bataille","драка, битва","zápasiť, bojovať","fight, battle","bojovat, válčit","lotta, battaglia",berkelahi,"vechten, gevecht","luchar, guerra",walczyć,"kavga, dövüş",打架，战斗,"lutar, guerra"
+96,ken,können,povi; ebla,"pouvoir, possible",возможность,"vedieť, môcť; možný",can; possible,umět; možný,può; possibile,bisa,kunnen; mogelijk,poder; posible,móc; możliwe,yapabilmek,可以；有可能,poder
+97,moku,"essen, Nahrung","manĝi, manĝaĵo","manger, nourriture","кушать, еда","jesť, jedlo","eat, food","jíst, jídlo","mangiare, cibo",makan(an),"eten, voedsel","comer, comida","jeść, jedzenie",yemek,吃，食物,"comer, comida"
+98,pona,"gut, einfach","bona, simpla","bon, simple","просто, хорошо","dobrý, jednoduchý","good, simple","dobrý, jednoduchý","buono, semplice",baik,"goed, simpel","bueno, simple","dobre, proste","güzel, basit",好的，简单的,"bom, simples"
+99,walo,"weiß, hell",blanka,blanc,белый,biely,white,bílý,bianco,putih,wit,blanco,białe,beyaz,白色,branco
+100,kepeken,benutzend,per,"utiliser, avec (outil)",использовать,"pomocou, s (nástrojom)","using, with (tool)",pomocí,"usare, con (strumento)",menggunakan,gebruiken,usando,za pomocą,kullanmak,使用,usar
+101,moli,"tot, töten","mortinta, mortigi","mourir, tuer",мёртвый,"mŕtvy, zabiť","dead, kill","mrtvý, zabít","morte, uccidere",mati,"dood, doden","muerto, matar","martwe, zabić","ölü, öldürmek",死亡的，杀,"morrer, matar"
+102,pu,(Toki-Pona-Buch),(la oficiala libro),(le livre officiel),(основная книга),(kniha toki pona),(toki pona book),(kniha toki pona),(il libro del toki pona),(buku toki pona),(Toki Pona boek),(libro de toki pona),(książka toki pony),(toki pona kitabı),（道本语书）,(o livro oficial)
+103,wan,eins,unu,un (nombre),один,jeden,one,jeden,uno,satu,één,uno,jeden,bir,一,um (número)
+104,kili,Frucht,frukto,fruit,фрукт,ovocie,fruit,ovoce,frutta,buah,fruit,fruta,"owoc, warzywo",meyve,水果,fruta
+105,monsi,hinten,"malantaŭo, dorso",derrière,"сзади, спина",chrbát,back,záda,dietro,belakang,"rug, achterkant",posterior,tył,arka,后面,traseiro
+106,sama,gleich; wie,sama; kiel,"même, comme",похожий,rovnaký; ako,same; like,stejný; jako,"medesimo; come, uguale","sama, mirip",hetzelfde; net als,mismo; como,takie same; podobne,"aynı, benzer",一样的；相似的,mesmo; como
+107,waso,Vogel,birdo,oiseau,птица,vták,bird,pták,uccello,burung,vogel,pájaro,ptak,kuş,鸟,pássaro
+108,kiwen,"hart, Stein","malmolaĵo, ŝtono","dur, pierre",камень,"tvrdý, kameň","hard, rock","tvrdý, kámen","duro, roccia","batu, permata","hard, steen","duro, piedra","twarde, kamień","sert, taş",硬的，石头,pedra
+109,mu,[Tiergeräusch],[besta bleko],[bruit d’animal],[звук зверя],[zvierací zvuk],[animal noise],[zvířecí zvuk],[verso animale],[suara hewan],[dierengeluid],[ruido animal],[odgłos zwierzęcy],[hayvan sesi],［动物声音］,[ruído animal]
+110,seli,"heiß, Feuer","varmega, fajro","chaud, feu","тепло, огонь","horúci, oheň","hot, fire","horký, oheň","caldo, fuoco","panas, api","heet, vuur","caliente, fuego","gorące, ogień","sıcak, ateş",热的，火,"quente, fogo"
+111,wawa,"stark, Energie","forta, energio","fort, énergie","сила, энергия","silný, energia","strong, energy","silný, energie","forte, energia",kuat,"krachtig, energie","fuerte, energía","silne, energia","güç, enerji",强的，能量,"forte, energia"
+112,ko,"Paste, Pulver","pasto, pulvoro","pâte, poudre","паста, порошок","pasta, prášok","paste, powder","pasta, prášek","pasta, polvere","pasta, bubuk","pasta, poeder","pasta, polvo","glina, proch","macun, toz",膏，粉,"pó, pasta"
+113,mun,"Mond, Stern","luno, stelo","lune, étoile","луна, звезда́","mesiac, hviezda","moon, star","měsíc, hvězda","luna, stella",bulan,"maan, ster","luna, estrella","księżyc, gwiazda","ay, yıldız",月亮，星星,lua
+114,selo,"Schicht, Grenze","tavolo, haŭto","peau, couche","слой, кожа","vrstva, koža","layer, skin","vrstva, kůže","strato, pelle","lapisan, kulit","laag, huid","capa, piel","warstwa, skóra","katman, deri",层，皮肤,"pele, camada"
+115,weka,"weg, fort","for, forigi",loin,далеко,preč,away,pryč,"via, fuori, lontano","hilang, jauh",weg,lejos,"wyrzucić, daleko",uzak,不在的,"fora, longe"
+116,kon,"Luft, Essenz","aero, spirito, esenco","air, esprit, essence","воздух, дух","vzduch, duch, esencia","air, spirit, essence","vzduch, duch","aria, spirito, essenza","udara, roh","lucht, geest, essentie","aire, esencia","powietrze, duch","hava, ruh, esans",空气，灵气，精华,"ar, espírito"
+117,musi,unterhaltsam,amuza,divertissant,развлечение,zábavný,entertaining,zábavný,intrattenimento,menghibur,vermakelijk,entretenido,zabawne,öğretici,有娱乐性的,divertido
+118,seme,[was],"kio, kiu",[quoi],[что],[čo],[what],[co],[cosa],[apa],[wat],[qué],[co/kto],[ne],（什么）,[o que/cual]
+119,wile,"wollen, brauchen","voli, bezoni","vouloir, nécessiter","хотеть, нужда","chcieť, potrebovať","want, need","chtít, potřeba","volere, bisogno","ingin, perlu","willen, nodig hebben","querer, necesitar","chcieć, musieć","istemek, ihtiyaç",想要，需要,"querer, precisar"
