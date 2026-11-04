@@ -1,5 +1,7 @@
 # awesome-toki-pona
 
+[![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
+
 Toki Pona is a simple language with limited vocabuary, only 140 words. But it's more than that. It's a philosphy.
 
 By using so few words, you have to break down big concepts into simple things.
